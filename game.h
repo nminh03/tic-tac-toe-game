@@ -1,4 +1,4 @@
-//Declaration
+//Difinition
 #define ROW 3
 #define COL 3//Easy to modify the size of the chessboard
 #define COLOR_BLUE "\033[34m"//Blue font
